@@ -116,7 +116,7 @@ img {
 
 /* Navbar */
 .navbar {
-  background: transparent;
+  background: rgba(235, 77, 85, 0.8);
   color: white;
   padding: 1rem 2rem;
   position: fixed;
